@@ -18,6 +18,21 @@ Program sederhana ini adalah sebuah kalkulator yang dibangun menggunakan bahasa 
 * Download dan install Python dari website resmi: https://www.python.org/downloads/
 * Menambah extension di file kalkulator-interaktif.py
 
+### Programming Flow
+* Meminta input nama pengguna untuk pengalaman yang lebih personal
+* Meminta operator matematika (+, -, *, /) yang ingin digunakan
+* Meminta dua angka untuk dihitung
+* Melakukan pengecekan kondisi operator menggunakan if-elif-else
+* Menghitung dan menampilkan hasil operasi matematika
+* Menangani input tidak valid dengan memberikan pesan error
+
+### Tech
+* Input/Output menggunakan input() dan print()
+* Type Conversion dari string ke float menggunakan float()
+* Conditional Statements dengan if-elif-else
+* String Formatting dengan f-string untuk output yang rapi
+* Error Handling dasar untuk input operator yang tidak valid
+
 ### Executing program
 
 * Buka terminal atau command promp
